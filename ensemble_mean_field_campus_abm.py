@@ -1,7 +1,6 @@
 import jax
 import jax.numpy as jnp
 from jax import random
-from jax.lax import top_k
 from tqdm.auto import tqdm
 import matplotlib.pyplot as plt
 
